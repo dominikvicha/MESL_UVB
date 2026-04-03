@@ -1,0 +1,70 @@
+%
+O1001
+(Pouzity G0 rychloposuvy)
+(T49 D=12. CR=0. UKOS=90stupne - ZMIN=-3.15 - NAVRTAVAK)
+(T117 D=5.1 CR=0. UKOS=140stupne - ZMIN=-20. - VRTAK)
+(T174 D=6. CR=0. - ZMIN=-6. - PRAVY ZAVITNIK)
+N1 G90 G17
+N2 G21
+ 
+(Soubor modelu - HA?A-del kartA!A?e - spojka OZ)
+(Autor modelu - Bc. HorA?A!k)
+(Material - 1.4305)
+(Vygenerovano - 24-4-2025 v 9-13-35)
+(Postprocesor - UVB_Hurco_VMX42i_ALL_v10.p.cps)
+(Celkovy vyrobni cas - 26s)
+ 
+N3 G0 M140
+(Vrtak1)
+N4 T117 M6
+N5 T49
+N6 S2809 M3
+N7 G54
+N8 M7
+N9 G0 X6. Y0.
+N10 G43 Z15. H117
+N11 Z5.
+N12 G98 G83 X6. Y0. Z-20. R5. Q4. F224.7
+N13 G80
+N14 Z15.
+N15 M9
+N16 M5
+N17 G0 M140
+(Vrtak1 2)
+N18 M1
+N19 T49 M6
+(Parametry na ocel)
+N20 T174
+N21 S2918 M3
+N22 G54
+N23 M8
+N24 G0 X6. Y0.
+N25 G43 Z15. H49
+N26 Z5.
+N27 G81 X6. Y0. Z-3.25 R5. F350.
+N28 G80
+N29 Z15.
+N30 M5
+N31 G0 M140
+(Vrtak2)
+N32 M9
+N33 M1
+N34 T174 M6
+N35 T117
+N36 S424 M3
+N37 G54
+N38 M8
+N39 G0 X6. Y0.
+N40 G43 Z15. H174
+N41 Z5.
+N42 M29
+N43 G84 X6. Y0. Z-6. R5. P0. F424.4
+N44 G80
+N45 Z15.
+N46 M9
+N47 G53 Z0.
+N48 G0 M140
+N49 G53 G0 X500. Y600.
+N50 M2
+N51 M30
+E
