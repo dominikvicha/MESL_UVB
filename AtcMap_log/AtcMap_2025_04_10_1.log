@@ -1,0 +1,2726 @@
+RevolvingLog v. 1.0.0.0
+04/10/25 11:20:34 - Created
+--------------------------------------------------------------------------------
+
+04/10/25 11:20:35
+Just after loading UI ATC map
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	99	99	99
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 11:20:35
+Next tool changed to 0
+
+04/10/25 11:20:35
+Tool in Spindle status changed to Auto.
+
+04/10/25 12:26:15
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:26:15
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:26:15
+Error: Tool 99 was still in pocket 5.  Had to clear it.
+04/10/25 12:26:15
+Toolchange: Spindle  changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	99
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:26:15
+RT wrote Config.sdf File successfully
+
+04/10/25 12:26:15
+RT wrote Config.sdf File successfully
+
+04/10/25 12:26:17
+
+@@@ ATC Pocket Home notification
+
+04/10/25 12:27:48
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:27:48
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:27:48
+RT wrote Config.sdf File successfully
+
+04/10/25 12:27:49
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:27:49
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:27:49
+Error: Tool 49 was still in pocket 3.  Had to clear it.
+04/10/25 12:27:49
+Toolchange: Spindle  changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	99	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:27:49
+Toolchange: Pocket 3 changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:27:49
+RT wrote Config.sdf File successfully
+
+04/10/25 12:27:49
+RT wrote Config.sdf File successfully
+
+04/10/25 12:27:51
+
+@@@ ATC Pocket Home notification
+
+04/10/25 12:34:57
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:34:57
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:34:57
+RT wrote Config.sdf File successfully
+
+04/10/25 12:34:58
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:34:58
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:34:58
+Error: Tool 2 was still in pocket 8.  Had to clear it.
+04/10/25 12:34:58
+Toolchange: Spindle  changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	0	49	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:34:58
+Toolchange: Pocket 8 changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:34:58
+RT wrote Config.sdf File successfully
+
+04/10/25 12:34:58
+RT wrote Config.sdf File successfully
+
+04/10/25 12:35:00
+
+@@@ ATC Pocket Home notification
+
+04/10/25 12:39:22
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:39:22
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:39:23
+RT wrote Config.sdf File successfully
+
+04/10/25 12:39:23
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:39:23
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:39:23
+Error: Tool 99 was still in pocket 3.  Had to clear it.
+04/10/25 12:39:23
+Toolchange: Spindle  changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	2	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:39:23
+Toolchange: Pocket 3 changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:39:23
+RT wrote Config.sdf File successfully
+
+04/10/25 12:39:23
+RT wrote Config.sdf File successfully
+
+04/10/25 12:39:25
+
+@@@ ATC Pocket Home notification
+
+04/10/25 12:41:28
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:41:28
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:41:29
+RT wrote Config.sdf File successfully
+
+04/10/25 12:41:29
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:41:29
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 12:41:29
+Error: Tool 49 was still in pocket 8.  Had to clear it.
+04/10/25 12:41:29
+Toolchange: Spindle  changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	0	99	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:41:29
+Toolchange: Pocket 8 changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 12:41:29
+RT wrote Config.sdf File successfully
+
+04/10/25 12:41:29
+RT wrote Config.sdf File successfully
+
+04/10/25 12:41:31
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:11:35
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:11:35
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:11:35
+RT wrote Config.sdf File successfully
+
+04/10/25 13:11:36
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:11:36
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:11:36
+Error: Tool 2 was still in pocket 3.  Had to clear it.
+04/10/25 13:11:36
+Toolchange: Spindle  changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	49	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:11:36
+Toolchange: Pocket 3 changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:11:36
+RT wrote Config.sdf File successfully
+
+04/10/25 13:11:36
+RT wrote Config.sdf File successfully
+
+04/10/25 13:11:38
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:15:01
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:15:01
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:15:01
+RT wrote Config.sdf File successfully
+
+04/10/25 13:15:02
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:15:02
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:15:02
+Error: Tool 99 was still in pocket 8.  Had to clear it.
+04/10/25 13:15:02
+Toolchange: Spindle  changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	0	2	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:15:02
+Toolchange: Pocket 8 changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:15:02
+RT wrote Config.sdf File successfully
+
+04/10/25 13:15:02
+RT wrote Config.sdf File successfully
+
+04/10/25 13:15:04
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:15:40
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:15:40
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:15:40
+RT wrote Config.sdf File successfully
+
+04/10/25 13:15:41
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:15:41
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:15:41
+Error: Tool 49 was still in pocket 3.  Had to clear it.
+04/10/25 13:15:41
+Toolchange: Spindle  changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	99	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:15:41
+Toolchange: Pocket 3 changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 0
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:15:41
+RT wrote Config.sdf File successfully
+
+04/10/25 13:15:41
+RT wrote Config.sdf File successfully
+
+04/10/25 13:15:43
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:19:41
+Next tool changed to 49
+
+04/10/25 13:19:42
+Next tool changed to 2
+
+04/10/25 13:21:19
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:21:19
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:21:19
+RT wrote Config.sdf File successfully
+
+04/10/25 13:21:19
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:21:19
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:21:19
+Error: Tool 2 was still in pocket 8.  Had to clear it.
+04/10/25 13:21:19
+Toolchange: Spindle  changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	0	49	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:21:19
+Toolchange: Pocket 8 changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:21:20
+RT wrote Config.sdf File successfully
+
+04/10/25 13:21:20
+RT wrote Config.sdf File successfully
+
+04/10/25 13:21:21
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:28:07
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:28:07
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:28:07
+RT wrote Config.sdf File successfully
+
+04/10/25 13:28:07
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:28:07
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:28:08
+Error: Tool 99 was still in pocket 3.  Had to clear it.
+04/10/25 13:28:08
+Toolchange: Spindle  changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	2	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:28:08
+Toolchange: Pocket 3 changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:28:08
+RT wrote Config.sdf File successfully
+
+04/10/25 13:28:08
+RT wrote Config.sdf File successfully
+
+04/10/25 13:28:10
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:28:46
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:28:46
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:28:46
+RT wrote Config.sdf File successfully
+
+04/10/25 13:28:47
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:28:47
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:28:47
+Error: Tool 49 was still in pocket 8.  Had to clear it.
+04/10/25 13:28:47
+Toolchange: Spindle  changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	0	99	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:28:47
+Toolchange: Pocket 8 changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:28:47
+RT wrote Config.sdf File successfully
+
+04/10/25 13:28:47
+RT wrote Config.sdf File successfully
+
+04/10/25 13:28:49
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:34:57
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:34:57
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:34:57
+RT wrote Config.sdf File successfully
+
+04/10/25 13:34:57
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:34:57
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:34:57
+Error: Tool 2 was still in pocket 3.  Had to clear it.
+04/10/25 13:34:57
+Toolchange: Spindle  changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	49	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:34:57
+Toolchange: Pocket 3 changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:34:58
+RT wrote Config.sdf File successfully
+
+04/10/25 13:34:58
+RT wrote Config.sdf File successfully
+
+04/10/25 13:34:59
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:35:02
+Next tool changed to 0
+
+04/10/25 13:35:03
+Next tool changed to 2
+
+04/10/25 13:40:38
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:40:38
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:40:38
+RT wrote Config.sdf File successfully
+
+04/10/25 13:40:39
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:40:39
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:40:39
+Error: Tool 99 was still in pocket 8.  Had to clear it.
+04/10/25 13:40:39
+Toolchange: Spindle  changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	0	2	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:40:39
+Toolchange: Pocket 8 changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:40:39
+RT wrote Config.sdf File successfully
+
+04/10/25 13:40:39
+RT wrote Config.sdf File successfully
+
+04/10/25 13:40:41
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:41:17
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:41:17
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:41:17
+RT wrote Config.sdf File successfully
+
+04/10/25 13:41:18
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:41:18
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:41:18
+Error: Tool 49 was still in pocket 3.  Had to clear it.
+04/10/25 13:41:18
+Toolchange: Spindle  changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	99	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:41:18
+Toolchange: Pocket 3 changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:41:18
+RT wrote Config.sdf File successfully
+
+04/10/25 13:41:18
+RT wrote Config.sdf File successfully
+
+04/10/25 13:41:20
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:44:40
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	2	2	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:44:40
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:44:40
+RT wrote Config.sdf File successfully
+
+04/10/25 13:44:41
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:44:41
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:44:41
+Error: Tool 2 was still in pocket 8.  Had to clear it.
+04/10/25 13:44:41
+Toolchange: Spindle  changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	0	49	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:44:41
+Toolchange: Pocket 8 changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	2
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:44:41
+RT wrote Config.sdf File successfully
+
+04/10/25 13:44:41
+RT wrote Config.sdf File successfully
+
+04/10/25 13:44:43
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:49:08
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:49:08
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	99	99	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:49:08
+RT wrote Config.sdf File successfully
+
+04/10/25 13:49:09
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:49:09
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:49:09
+Error: Tool 99 was still in pocket 3.  Had to clear it.
+04/10/25 13:49:09
+Toolchange: Spindle  changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	2	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:49:09
+Toolchange: Pocket 3 changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	99	99
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	99
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:49:09
+RT wrote Config.sdf File successfully
+
+04/10/25 13:49:09
+RT wrote Config.sdf File successfully
+
+04/10/25 13:49:11
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:49:47
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:49:47
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	49	49	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:49:47
+RT wrote Config.sdf File successfully
+
+04/10/25 13:49:48
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:49:48
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:49:48
+Error: Tool 49 was still in pocket 8.  Had to clear it.
+04/10/25 13:49:48
+Toolchange: Spindle  changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	0	99	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:49:48
+Toolchange: Pocket 8 changed to tool 99
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	49	49
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	2	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	49
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:49:48
+RT wrote Config.sdf File successfully
+
+04/10/25 13:49:48
+RT wrote Config.sdf File successfully
+
+04/10/25 13:49:50
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:57:26
+Next tool changed to 0
+
+04/10/25 13:57:27
+Next tool changed to 49
+
+04/10/25 13:57:28
+Next tool changed to 2
+
+04/10/25 13:57:30
+Next tool changed to 49
+
+04/10/25 13:57:31
+Next tool changed to 0
+
+04/10/25 13:57:32
+Next tool changed to 2
+
+04/10/25 13:57:36
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:57:36
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:57:36
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	2	0	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:57:36
+Toolchange: Pocket 3 changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	0	2
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:57:36
+RT wrote Config.sdf File successfully
+
+04/10/25 13:57:36
+RT wrote Config.sdf File successfully
+
+04/10/25 13:57:37
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:57:37
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:57:37
+Toolchange: Spindle  changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	0	49	0
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:57:37
+Toolchange: Pocket 3 changed to tool 49
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	2	2
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	0
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:57:37
+RT wrote Config.sdf File successfully
+
+04/10/25 13:57:37
+RT wrote Config.sdf File successfully
+
+04/10/25 13:57:39
+
+@@@ ATC Pocket Home notification
+
+04/10/25 13:59:58
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:59:58
+Toolchange: Spindle  changed to tool 0
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	0	0	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:59:58
+RT wrote Config.sdf File successfully
+
+04/10/25 13:59:58
+LC requested CNC_SAVE_ATC_MAP command
+
+04/10/25 13:59:59
+Toolchange: Pocket 5 changed to tool 2
+All ATC maps
+Machine: VMX42i XP DS
+Next Tool: 	LC: 2
+Pockets: 31
+Pocket	Lock	UI	SDB	File
+0	 	0	0
+1	 	11	11	11
+2	 	173	173	173
+3	 	49	49	49
+4	 	68	68	68
+5	 	2	2	0
+6	 	67	67	67
+7	 	61	61	61
+8	 	99	99	99
+9	 	18	18	18
+10	 	0	0	0
+11	 	19	19	19
+12	 	6	6	6
+13	 	10	10	10
+14	 	21	21	21
+15	 	86	86	86
+16	 	14	14	14
+17	 	74	74	74
+18	 	0	0	0
+19	 	17	17	17
+20	 	77	77	77
+21	 	87	87	87
+22	 	9	9	9
+23	 	82	82	82
+24	 	94	94	94
+25	 	0	0	0
+26	 	188	188	188
+27	 	79	79	79
+28	 	3	3	3
+29	 	84	84	84
+30	 	4	4	4
+31	 	0	0	0
+
+04/10/25 13:59:59
+RT wrote Config.sdf File successfully
+
+04/10/25 14:00:00
+
+@@@ ATC Pocket Home notification
+
