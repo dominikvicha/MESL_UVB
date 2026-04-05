@@ -1,4 +1,5 @@
 N1, N2.... označení řádku kodu
+G0 - rychloposuv
 G90 - "absolutni pozice" XYZ je počítano relativně k 0 bodu
 G17 - souřadnice (XY)
 G21 - určuje milimetr jako jednotku 
