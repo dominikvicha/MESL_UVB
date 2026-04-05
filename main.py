@@ -1,5 +1,6 @@
 from pathlib import Path
 
+# cílové složky se bubdou měnit a ne vždy budou stejné - nejspíše bude potřebovat z toho udělat proměnnou 
 cam_files_path = Path("Cam_files")
 
 # konotrola toho, že se načetly všechny hnc soubory
