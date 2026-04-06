@@ -12,16 +12,28 @@ confirmation = input("Souhlasí počet nalezených CAM souborů? Ano/Ne:")
 if confirmation.lower() == "ano":
     print("Pokračuji..")
 else:
-    print("Je potřeba kontrola cesty souborů.")
+    print("Zkonotroluj znovu cestu k souborům a spusť program znovu.")
 
-for file in hnc_files_found:
+
+def find_tools():
     
-    with open(file, "r", encoding="utf-8") as f:
-        content = f.read()
+    for file in hnc_files_found:
+        
+        with open(file, "r", encoding="utf-8") as f:
+            tools = []
+            
+            for line in f:
+                if line.startswith("T") and line[1:].strip().isdigit():
+                    tools.append(line.strip())
+        
+                elif "G21" in line:
+                    break
         
         #print(f"--- Obsah souboru: {file.name} ---")
         #print(content)
         #print("-" * 30)    
+        
+        
         
 
 
