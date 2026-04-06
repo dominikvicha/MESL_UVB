@@ -7,6 +7,13 @@ cam_files_path = Path("Cam_files")
 hnc_files_found = list(cam_files_path.glob("*.hnc"))
 print(f"Počet nalezených CAM programů: {len(hnc_files_found)}\n")
 
+# validace toho, že jsou všechny hnc soubory načteny
+confirmation = input("Souhlasí počet nalezených CAM souborů? Ano/Ne:")
+if confirmation.lower() == "ano":
+    print("Pokračuji..")
+else:
+    print("Je potřeba kontrola cesty souborů.")
+
 for file in hnc_files_found:
     
     with open(file, "r", encoding="utf-8") as f:
