@@ -23,7 +23,7 @@ def find_tools():
             tools = []
             
             for line in f:
-                if line.startswith("T") and line[0:].strip():
+                if line[0] == "(" and line[1] == "T" and line[2].isdigit():
                     tools.append(line.strip())
         
                 elif "G21" in line:
