@@ -23,17 +23,20 @@ def find_tools():
             tools = []
             
             for line in f:
-                if line.startswith("T") and line[1:].strip().isdigit():
+                if line.startswith("T") and line[0:].strip():
                     tools.append(line.strip())
         
                 elif "G21" in line:
                     break
+        print(f"--- Nástroje nalezené v souboru: {file.name} ---")
+        print(tools)
         
         #print(f"--- Obsah souboru: {file.name} ---")
         #print(content)
         #print("-" * 30)    
         
-        
+if __name__ == "__main__":
+    find_tools()    
         
 
 
