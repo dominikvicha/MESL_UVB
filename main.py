@@ -36,8 +36,24 @@ def find_tools():
         #print("-" * 30)    
         
         
-def meta_data():
-    pass
+def find_meta_data():
+    for file in hnc_files_found:
+        
+        with open(file, "r", encoding="utf-8") as f:
+            meta_data = []
+            
+            for line in f:
+                if "Celkovy vyrobni cas - " in line:
+                    parts = line.split(" - ")
+                    meta_data.append(parts[1].strip(")\n"))
+            print(f"--- Výrobní čas nalezený v souboru: {file.name}: {meta_data[0]} ---")
+                    
+# nemůže být else prootže else u for cyklu se spustí když cyklus doběhned o konce bez přerušení!
+            if not meta_data:
+                print("Nenalezen výrobní čas u daného souboru.")
+        
+                    
+    
 
 
 
@@ -48,6 +64,7 @@ def performance():
 
 if __name__ == "__main__":
     find_tools()    
+    find_meta_data()
         
 
 
