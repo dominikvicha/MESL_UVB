@@ -46,12 +46,13 @@ def find_meta_data():
                 if "Celkovy vyrobni cas - " in line:
                     parts = line.split(" - ")
                     meta_data.append(parts[1].strip(")\n"))
-            print(f"--- Výrobní čas nalezený v souboru: {file.name}: {meta_data[0]} ---")
-                    
+           
 # nemůže být else prootže else u for cyklu se spustí když cyklus doběhned o konce bez přerušení!
-            if not meta_data:
+            if not meta_data: # první kontroluji zdali program našel nějaký výrobní čas  a až potom printuju nalezený čas v souboru.
                 print("Nenalezen výrobní čas u daného souboru.")
         
+            print(f"--- Výrobní čas nalezený v souboru: {file.name}: {meta_data[0]} ---")
+                    
                     
     
 
