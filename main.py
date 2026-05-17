@@ -1,21 +1,23 @@
 from pathlib import Path
-
-# cílové složky se bubdou měnit a ne vždy budou stejné - nejspíše bude potřebovat z toho udělat proměnnou 
-cam_files_path = Path("Cam_files")
-
-# konotrola toho, že se načetly všechny hnc soubory
-hnc_files_found = list(cam_files_path.glob("*.hnc"))
-print(f"Počet nalezených CAM programů: {len(hnc_files_found)}\n")
-
-# validace toho, že jsou všechny hnc soubory načteny
-confirmation = input("Souhlasí počet nalezených CAM souborů? Ano/Ne:")
-if confirmation.lower() == "ano":
-    print("Pokračuji..")
-else:
-    print("Zkonotroluj znovu cestu k souborům a spusť program znovu.")
+from datetime import datetime
 
 
-def find_tools():
+def cam_files():
+    cam_files_path = Path("Cam_files")    
+
+    # konotrola toho, že se načetly všechny hnc soubory
+    hnc_files_found = list(cam_files_path.glob("*.hnc"))
+    print(f"Počet nalezených CAM programů: {len(hnc_files_found)}\n")
+
+    # validace toho, že jsou všechny hnc soubory načteny
+    confirmation = input("Souhlasí počet nalezených CAM souborů? Ano/Ne:")
+    if confirmation.lower() == "ano":
+        print("Pokračuji..")
+    else:
+        print("Zkonotroluj znovu cestu k souborům a spusť program znovu.")
+
+
+def find_tools(cam_files):
     
     for file in hnc_files_found:
         
@@ -50,11 +52,16 @@ def find_meta_data():
 # nemůže být else prootže else u for cyklu se spustí když cyklus doběhned o konce bez přerušení!
             if not meta_data: # první kontroluji zdali program našel nějaký výrobní čas  a až potom printuju nalezený čas v souboru.
                 print("Nenalezen výrobní čas u daného souboru.")
-        
+                continue 
             print(f"--- Výrobní čas nalezený v souboru: {file.name}: {meta_data[0]} ---")
+            
                     
                     
-    
+def is_timestamp(line):
+    try:
+        return datetime.strptime(line.strip(), "%m/%d/%y %H:%M:%S")
+    except ValueError:
+        return None
 
 
 
